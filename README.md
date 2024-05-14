@@ -1,16 +1,38 @@
-# motor_show_2024_project
+# motor_show_2024_project คำนวณค่างวดรถ
 
-A new Flutter project.
+Created By : Kanchai Singkhot DTI-SAU_
 
-## Getting Started
+## Introduction UI
 
-This project is a starting point for a Flutter application.
+<!-- ![IntroductionUI](https://github.com/6552410005/motor_show_2024_project/assets/113956880/11d4cb43-4fa4-4604-b197-d6154f41bc73) -->
+<img src="https://github.com/6552410005/motor_show_2024_project/assets/113956880/11d4cb43-4fa4-4604-b197-d6154f41bc73" width="150px">
 
-A few resources to get you started if this is your first Flutter project:
+<!-- ![IntroductionUI2](https://github.com/6552410005/motor_show_2024_project/assets/113956880/83418684-2fb0-4302-b2b6-21381fb28862) -->
+<img src="https://github.com/6552410005/motor_show_2024_project/assets/113956880/83418684-2fb0-4302-b2b6-21381fb28862" width="150px">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## CarBrand UI
+
+<!-- ![CarUI](https://github.com/6552410005/motor_show_2024_project/assets/113956880/9f7f7416-2ac0-4b47-a546-1ab7462e789c) -->
+<img src="https://github.com/6552410005/motor_show_2024_project/assets/113956880/9f7f7416-2ac0-4b47-a546-1ab7462e789c" width="150px">
+
+<br>
+
+## Calculate UI
+
+<!-- ![CalculateUI](https://github.com/6552410005/motor_show_2024_project/assets/113956880/9bd1c415-19bd-4e87-b2bb-cab964594654) -->
+<img src="https://github.com/6552410005/motor_show_2024_project/assets/113956880/9bd1c415-19bd-4e87-b2bb-cab964594654" width="150px">
+
+<br>
+
+## Result UI
+
+<!-- ![ResultUI](https://github.com/6552410005/motor_show_2024_project/assets/113956880/3849c8b3-5775-4063-be78-0a08da8a948d) -->
+<img src="https://github.com/6552410005/motor_show_2024_project/assets/113956880/3849c8b3-5775-4063-be78-0a08da8a948d" width="150px">
+
+
+
+
+
+
